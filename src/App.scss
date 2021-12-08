@@ -5,16 +5,18 @@
   justify-content: center;
   flex-direction: column;
   height: 100vh;
-
   align-items: center;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  margin: 5% 5%;
+  margin:2% 5%;
   width: 90%;
   &-container {
+    margin:10rem 0;
     width: 90%;
-    border: 1px solid orangered;
+    height: 100%;
     border-radius: .5rem;
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     &--card-1 {
    @include card($Bright_orange);
     }
