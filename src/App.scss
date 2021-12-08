@@ -4,12 +4,13 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 100vh;
+  min-height: 100vh;
   align-items: center;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   margin:2% 5%;
   width: 90%;
   &-container {
+    border-radius: 1rem;
     margin:10rem 0;
     width: 90%;
     height: 100%;
@@ -17,14 +18,76 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+   
     &--card-1 {
    @include card($Bright_orange);
+  //  border-top-left-radius: 1rem;
+  //  border-bottom-left-radius: 1rem;
     }
     &--card-2 {
       @include card($Dark_cyan);
     }
     &--card-3 {
       @include card($Very_dark_cyan);
+      // border-top-right-radius: 1rem;
+      // border-bottom-right-radius: 1rem;
     }
   }
 }
+
+@media only screen and(min-width:1112px){
+  .App{
+    &-container {
+      &--card-1 {
+     
+        border-top-left-radius: 1rem;
+        border-bottom-left-radius: 1rem;
+         }
+      
+         &--card-3 {
+    border-top-right-radius: 1rem;
+           border-bottom-right-radius: 1rem;
+          
+         }
+    }
+  }
+}
+
+@media only screen and(max-width:1111px){
+  .App{
+    &-container {
+      &--card-1 {
+     
+        border-top-left-radius: 1rem;
+        border-bottom-left-radius: 1rem;
+         }
+         &--card-2 {
+        border-top-right-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+        }
+      
+         &--card-3 {
+            border-bottom-left-radius: 1rem;
+           border-bottom-right-radius: 1rem;
+          
+         }
+    }
+  }
+}
+@media only screen and(max-width:740px){
+  .App{
+    &-container {
+      &--card-1 {
+        border-top-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        border-bottom-left-radius: 0;
+         }
+         &--card-2 {
+          border-top-right-radius: 0;
+          border-bottom-right-radius: 0;
+          }
+    }
+  }
+}
+
+
