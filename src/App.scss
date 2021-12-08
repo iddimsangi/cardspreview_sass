@@ -1,19 +1,28 @@
+@import './base/mixins';
+@import './base/variables';
 .App {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 60vh;
+  height: 100vh;
 
   align-items: center;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   margin: 5% 5%;
   width: 90%;
   &-container {
-    width: 80%;
+    width: 90%;
     border: 1px solid orangered;
+    border-radius: .5rem;
     display: flex;
-    &--card {
-      border: 1px solid green;
+    &--card-1 {
+   @include card($Bright_orange);
+    }
+    &--card-2 {
+      @include card($Dark_cyan);
+    }
+    &--card-3 {
+      @include card($Very_dark_cyan);
     }
   }
 }

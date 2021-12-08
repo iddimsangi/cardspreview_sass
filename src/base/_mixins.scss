@@ -1,0 +1,43 @@
+
+@mixin card($background) {
+    display: flex;
+    flex-direction: column;
+    padding: 5.5rem;
+    justify-content: space-between;
+    background-color: $background;
+    img{
+        height: 5rem;
+        width: 5rem;
+        margin-bottom: 3rem;
+    }
+    h1{
+        margin-bottom: 3rem;
+        font-family: 'Big Shoulders Display', cursive;
+        font-size: 4rem;
+        font-weight: 700;
+        color: $Very_light_gray;
+    }
+    p{
+        margin-bottom: 8rem;
+        color: $Transparent_white;
+        font-size: 1.8rem;
+    }
+    button{
+        padding: 1.5rem 2rem;
+        border-radius: 20rem;
+        color:$Bright_orange;
+        background-color: $Very_light_gray;
+        border: none;
+        font-size: 2rem;
+        transition: all .3s;
+        &:focus{
+            outline: none;
+            border: none;
+        }
+        &:hover{
+            border: 2px solid $Very_light_gray;
+            background-color: transparent;
+            color: $Very_light_gray;
+        }
+    }
+}
