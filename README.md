@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/iddimsangi/cardspreview_sass](https://github.com/iddimsangi/cardspreview_sass)
-- Live Site URL: [https://61b0e932767578134785e7e9--peaceful-jepsen-077221.netlify.app/](https://adrianburgoscolas.github.io/3-column-preview-card-component-main/)
+- Live Site URL: [https://peaceful-jepsen-077221.netlify.app](https://peaceful-jepsen-077221.netlify.app)
 
 ## My process
 
