@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./3-preview-cards.png)
+![3-preview-cards](./3-preview-cards.png)
 
 ### Links
 
@@ -56,3 +56,5 @@ Need to keep improving Sass, React
 - [css box shadow](https://getcssscan.com/css-box-shadow-examples) 
 
 ## Author
+- Frontend Mentor - [@IDDI MSANGI](https://app.slack.com/client/TCYEB44S2/D02PW41BK8W/user_profile/U01G7EAT82J)
+- Linkedin - [https://www.linkedin.com/in/iddimsangi/](https://www.linkedin.com/in/iddimsangi/)
