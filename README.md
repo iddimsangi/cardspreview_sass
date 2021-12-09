@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/adrianburgoscolas/3-column-preview-card-component-main](https://github.com/adrianburgoscolas/3-column-preview-card-component-main)
-- Live Site URL: [https://adrianburgoscolas.github.io/3-column-preview-card-component-main/](https://adrianburgoscolas.github.io/3-column-preview-card-component-main/)
+- Solution URL: [https://github.com/iddimsangi/DigitalWeb_reactSass](https://github.com/iddimsangi/DigitalWeb_reactSass)
+- Live Site URL: [https://61b0e932767578134785e7e9--peaceful-jepsen-077221.netlify.app/](https://adrianburgoscolas.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
