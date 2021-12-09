@@ -49,7 +49,7 @@ In this project I was be able to level up my skill using a flexbox and practicin
 
 ### Continued development
 
-Need to keep improving Sass, React
+Need to keep improving React with Sass.
 
 ### Useful resources
 
