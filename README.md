@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![3-preview-cards](cardspreview_sass/src/3-preview-cards.png)
+![3-preview-cards](src/3-preview-cards.png)
 
 ### Links
 
