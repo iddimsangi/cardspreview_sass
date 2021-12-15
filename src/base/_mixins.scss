@@ -30,12 +30,14 @@
         border-radius: 20rem;
         color:$Bright_orange;
         background-color: $Very_light_gray;
-        border: none;
+        border: 2px solid $Very_light_gray;
+        // border: none;
         font-size: 2rem;
         transition: all .3s;
         &:focus{
             outline: none;
-            border: none;
+            border: 2px solid $Very_light_gray;
+            // border: none;
         }
         &:hover{
             border: 2px solid $Very_light_gray;

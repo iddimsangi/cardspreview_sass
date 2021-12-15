@@ -28,6 +28,7 @@ Users should be able to:
 
 ![3-preview-cards](cardspreview_sass/src/3-preview-cards.png)
 
+
 ### Links
 
 - Solution URL: [https://github.com/iddimsangi/cardspreview_sass](https://github.com/iddimsangi/cardspreview_sass)
