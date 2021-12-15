@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![3-preview-cards](cardspreview_sass/src/3-preview-cards.png)
+![3-preview-cards](src/3-preview-cards.png)
 
 
 ### Links
 
 - Solution URL: [https://github.com/iddimsangi/cardspreview_sass](https://github.com/iddimsangi/cardspreview_sass)
-- Live Site URL: [https://61b0e932767578134785e7e9--peaceful-jepsen-077221.netlify.app/](https://adrianburgoscolas.github.io/3-column-preview-card-component-main/)
+- Live Site URL: [https://peaceful-jepsen-077221.netlify.app](https://peaceful-jepsen-077221.netlify.app)
 
 ## My process
 
@@ -50,7 +50,7 @@ In this project I was be able to level up my skill using a flexbox and practicin
 
 ### Continued development
 
-Need to keep improving Sass, React
+Need to keep improving React with Sass.
 
 ### Useful resources
 
