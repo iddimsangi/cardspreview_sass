@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/iddimsangi/cardspreview_sass](https://github.com/iddimsangi/cardspreview_sass)
-- Live Site URL: [https://peaceful-jepsen-077221.netlify.app](https://peaceful-jepsen-077221.netlify.app)
+- Live Site URL: [https://peaceful-jepsen-077221.netlify.app](https://3cardspreviewmsangi.netlify.app/)
 
 ## My process
 
